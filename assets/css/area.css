@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background: #262626;
+}
+
+header {
+    display: flex;
+    background-color: #FAD824;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1%;
+}
+
+a {
+    color: #000;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 24px;
+    margin: 0 12px;
+}
+
+h1 {
+
+
+    display: flex;
+    position: absolute;
+    left: 460px;
+    top: 250px;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0em;
+    padding: 2% 1%;
+    color: white;
+
+}
+
+#poost {
+
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 300px;
+    right: -300px;
+    border-radius: 10px;
+    border: 1px solid #FAD824;
+    width: 541px;
+    height: 421px;
+    margin: 0;
+    padding: 2%;
+}
+
+.woaman {
+
+    position: relative;
+    right: -450px;
+    width: 690px;
+    height: 900px;
+    top: -225px;
+
+
+}
+
+button {
+
+    width: 150px;
+    position: relative;
+    top: 05px;
+    padding: 2% 1%;
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    color: #000;
+    background-color: #FAD824;
+    border-radius: 5px;
+}
+
+
+::placeholder {
+
+    padding: 2% 1%;
+    color: #bfbfbf;
+}
+
+label {
+
+    position: relative;
+    top: -10px;
+}
+
+
+input {
+
+    background-color: #262626;
+    color: white;
+    width: 400px;
+    text-decoration: none;
+    border: 1px solid #FAD824;
+    padding: 2% 2%;
+
+}
+
+
+
+form {
+
+
+    display: flex;
+    position: relative;
+    top: 50px;
+    right: -10px;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 400px;
+    color: white;
+
+}
+
+
+.aa a {
+
+    position: relative;
+    top: 110px;
+    left: -40px;
+    display: flex;
+    justify-content: space-around;
+    color: #bfbfbf;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: 300;
+
+}
+
+.aaa a {
+
+    position: relative;
+    top: 110px;
+    left: -20px;
+    display: flex;
+    justify-content: space-around;
+    color: #bfbfbf;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: 300;
+
+}
+
+footer {
+
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0.5% 0;
+    text-align: center;
+    margin: 0;
+    size: 15px;
+    font-size: 10px;
+    top: 600px;
+    background-color: #FAD824;
+
+}
