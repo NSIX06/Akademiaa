@@ -25,7 +25,7 @@
     <header>
         <nav>
             <a href="../index.html">Início</a>
-            <a href="">Modalidades</a>
+            <a href="../php/modal.php">Modalidades</a>
             <a href="">Planos</a>
             <a href="">Eventos</a>
             <a href="../php/restricted.php">Área restrita</a>
