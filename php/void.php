@@ -4,10 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>!-!</title>
+    
+    <link href="../assets/css/void.css" rel="stylesheet">
+    <title>Bem-vindo</title>
 </head>
 <body>
-    <h1>Área do Usuário</h1>
+    <h1>Bem-vindo à Akademia</h1>
 
     <?php
         if (isset($_COOKIE["nome"]))
@@ -20,7 +22,7 @@
         
     ?>
 
-    <a href="../index.html">Inicio</a>
+    <a href="../index.html"> Ir para a página de inicio</a>
     <a href="../php/sair.php">Sair</a>
 </body>
 </html>
