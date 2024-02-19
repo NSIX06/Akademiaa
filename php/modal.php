@@ -31,7 +31,7 @@
         <img src="../assets/img/akademia.png" alt="logotipo">
     </header>
 
-    <h2>Nossas modalidades</h2>
+
 
 <?php
 
